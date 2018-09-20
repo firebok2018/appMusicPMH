@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\usrcdiar\Documents\yuyu\.metadata\.plugins\org.eclipse.jdt.core
+2333096886.index
